@@ -2,14 +2,14 @@
   {
     "roll": 1001,
     "pass": 5566,
-    "name": "à¤°à¤¾à¤® à¤à¥à¤®à¤¾à¤°",
+    "name": "Ã Â¤Â°Ã Â¤Â¾Ã Â¤Â® Ã Â¤ÂÃ Â¥ÂÃ Â¤Â®Ã Â¤Â¾Ã Â¤Â°",
     "college": "Royal Agri College",
     "education": "B.Sc Agriculture"
   },
   {
     "roll": 1002,
     "pass": 7788,
-    "name": "à¤¸à¥à¤¨à¥à¤² à¤¯à¤¾à¤¦à¤µ",
+    "name": "Ã Â¤Â¸Ã Â¥ÂÃ Â¤Â¨Ã Â¥ÂÃ Â¤Â² Ã Â¤Â¯Ã Â¤Â¾Ã Â¤Â¦Ã Â¤Âµ",
     "college": "Agri University",
     "education": "M.Sc Horticulture"
   },
@@ -21,5 +21,14 @@
     "mobile": "96589988",
     "roll": "1200",
     "pass": "MTIzNA=="
+  },
+  {
+    "name": "yy",
+    "college": "bb",
+    "education": "bb",
+    "email": "bnn",
+    "mobile": "999",
+    "roll": "12",
+    "pass": "MTI="
   }
 ]
