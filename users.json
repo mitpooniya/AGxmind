@@ -1,0 +1,16 @@
+[
+  {
+    "roll": 1001,
+    "pass": 5566,
+    "name": "राम कुमार",
+    "college": "Royal Agri College",
+    "education": "B.Sc Agriculture"
+  },
+  {
+    "roll": 1002,
+    "pass": 7788,
+    "name": "सुनील यादव",
+    "college": "Agri University",
+    "education": "M.Sc Horticulture"
+  }
+]
