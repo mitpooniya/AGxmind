@@ -2,15 +2,24 @@
   {
     "roll": 1001,
     "pass": 5566,
-    "name": "राम कुमार",
+    "name": "à¤°à¤¾à¤® à¤à¥à¤®à¤¾à¤°",
     "college": "Royal Agri College",
     "education": "B.Sc Agriculture"
   },
   {
     "roll": 1002,
     "pass": 7788,
-    "name": "सुनील यादव",
+    "name": "à¤¸à¥à¤¨à¥à¤² à¤¯à¤¾à¤¦à¤µ",
     "college": "Agri University",
     "education": "M.Sc Horticulture"
+  },
+  {
+    "name": "sumit",
+    "college": "Sk",
+    "education": "bsc",
+    "email": "idm@hj.cim",
+    "mobile": "96589988",
+    "roll": "1200",
+    "pass": "MTIzNA=="
   }
 ]
