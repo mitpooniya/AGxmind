@@ -12,5 +12,11 @@
     "id": "45",
     "name": "Bsc",
     "deadlineDate": "2026-03-10"
+  },
+  {
+    "id": "121",
+    "name": "Supervisor at least",
+    "deadlineDate": "2026-03-12",
+    "resultDate": "2026-03-15"
   }
 ]
