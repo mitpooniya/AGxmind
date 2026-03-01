@@ -17,6 +17,9 @@
     "roll": 7114,
     "institute": "N/A",
     "course": "N/A",
-    "regDate": "28/02/2026, 17:04:44"
+    "regDate": "28/02/2026, 17:04:44",
+    "blockedTests": [
+      "45"
+    ]
   }
 ]
