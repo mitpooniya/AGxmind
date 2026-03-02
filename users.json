@@ -21,5 +21,15 @@
     "blockedTests": [
       "45"
     ]
+  },
+  {
+    "name": "Agxmind",
+    "email": "agxmind12@gmail.com",
+    "pass": "13a3d46f786d0adb4eb8e5cbba9a03228e2dee2f28c0f8c7823b03b9d8f53555",
+    "mobile": "9610893022",
+    "roll": 8247,
+    "institute": "N/A",
+    "course": "N/A",
+    "regDate": "02/03/2026, 07:49:44"
   }
 ]
