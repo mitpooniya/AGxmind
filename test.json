@@ -5,12 +5,5 @@
     "duration": "45",
     "deadlineDate": "2026-03-05",
     "resultDate": "2026-03-07"
-  },
-  {
-    "id": "25",
-    "name": "Demo",
-    "duration": "15",
-    "deadlineDate": "2026-03-05",
-    "resultDate": "2026-03-07"
   }
 ]
