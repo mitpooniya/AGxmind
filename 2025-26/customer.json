@@ -8,6 +8,16 @@
       "village": "Kalana",
       "date": "2026-03-18",
       "paymentDone": false
+    },
+    {
+      "id": "_2z3bbo450",
+      "firstName": "Ram",
+      "lastName": "kj",
+      "amount": 908,
+      "village": "Gunjasari",
+      "date": "2026-03-26",
+      "paymentDone": false,
+      "legacyId": "_2iwgl1yq3"
     }
   ],
   "history": [
@@ -16,6 +26,12 @@
       "type": "Creation",
       "message": "Added with amount 500",
       "timestamp": "2026-03-18T05:14:46.227Z"
+    },
+    {
+      "userId": "_2z3bbo450",
+      "type": "Creation",
+      "message": "User created. (Imported)",
+      "timestamp": "2026-03-18T07:21:01.918Z"
     }
   ]
 }
