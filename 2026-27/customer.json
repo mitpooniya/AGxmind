@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": "_2iwgl1yq3",
+      "firstName": "Ram",
+      "lastName": "kj",
+      "amount": 500,
+      "village": "Gunjasari",
+      "date": "2026-05-21",
+      "paymentDone": false
+    }
+  ],
+  "history": [
+    {
+      "userId": "_2iwgl1yq3",
+      "type": "Creation",
+      "message": "Added with amount 500",
+      "timestamp": "2026-03-18T05:15:17.887Z"
+    }
+  ]
+}
