@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": "_nn01ihos7",
+      "firstName": "Ram",
+      "lastName": "pooniya",
+      "amount": 500,
+      "village": "Kalana",
+      "date": "2026-03-18",
+      "paymentDone": false
+    }
+  ],
+  "history": [
+    {
+      "userId": "_nn01ihos7",
+      "type": "Creation",
+      "message": "Added with amount 500",
+      "timestamp": "2026-03-18T05:14:46.227Z"
+    }
+  ]
+}
